@@ -1,0 +1,6 @@
+build/
+dist/
+frechetmean.egg-info/
+*.pyc
+.vscode/
+__pycache__/
